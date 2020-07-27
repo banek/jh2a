@@ -1,0 +1,23 @@
+{
+  "jh2App": {
+    "parking": {
+      "home": {
+        "title": "Parkings",
+        "createLabel": "Parking erstellen",
+        "createOrEditLabel": "Parking erstellen oder bearbeiten",
+        "notFound": "No Parkings found"
+      },
+      "created": "Parking erstellt mit ID {{ param }}",
+      "updated": "Parking aktualisiert mit ID {{ param }}",
+      "deleted": "Parking gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Parking {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Parking"
+      },
+      "naziv": "Naziv",
+      "povrsina": "Povrsina"
+    }
+  }
+}

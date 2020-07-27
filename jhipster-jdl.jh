@@ -1,0 +1,8 @@
+entity Vozilo {
+	naziv String required
+}
+
+entity Parking {
+	naziv String required,
+    povrsina Double required
+}

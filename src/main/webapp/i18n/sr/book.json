@@ -1,0 +1,22 @@
+{
+  "jh2App": {
+    "book": {
+      "home": {
+        "title": "Books",
+        "createLabel": "Kreiraj novi Book",
+        "createOrEditLabel": "Kreirajte ili izmenite Book",
+        "notFound": "No Books found"
+      },
+      "created": "Kreiran je novi Book pod nazivom {{ param }}",
+      "updated": "Book pod nazivom {{ param }} je ažuriran",
+      "deleted": "Book pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Book pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Book"
+      },
+      "naziv": "Naziv"
+    }
+  }
+}

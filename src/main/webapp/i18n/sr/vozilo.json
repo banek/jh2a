@@ -1,0 +1,22 @@
+{
+  "jh2App": {
+    "vozilo": {
+      "home": {
+        "title": "Vozilos",
+        "createLabel": "Kreiraj novi Vozilo",
+        "createOrEditLabel": "Kreirajte ili izmenite Vozilo",
+        "notFound": "No Vozilos found"
+      },
+      "created": "Kreiran je novi Vozilo pod nazivom {{ param }}",
+      "updated": "Vozilo pod nazivom {{ param }} je ažuriran",
+      "deleted": "Vozilo pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Vozilo pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Vozilo"
+      },
+      "naziv": "Naziv"
+    }
+  }
+}

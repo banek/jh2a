@@ -1,0 +1,22 @@
+{
+  "jh2App": {
+    "book": {
+      "home": {
+        "title": "Books",
+        "createLabel": "Book erstellen",
+        "createOrEditLabel": "Book erstellen oder bearbeiten",
+        "notFound": "No Books found"
+      },
+      "created": "Book erstellt mit ID {{ param }}",
+      "updated": "Book aktualisiert mit ID {{ param }}",
+      "deleted": "Book gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Book {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Book"
+      },
+      "naziv": "Naziv"
+    }
+  }
+}

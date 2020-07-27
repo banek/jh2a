@@ -1,0 +1,22 @@
+{
+  "jh2App": {
+    "vozilo": {
+      "home": {
+        "title": "Vozilos",
+        "createLabel": "Vozilo erstellen",
+        "createOrEditLabel": "Vozilo erstellen oder bearbeiten",
+        "notFound": "No Vozilos found"
+      },
+      "created": "Vozilo erstellt mit ID {{ param }}",
+      "updated": "Vozilo aktualisiert mit ID {{ param }}",
+      "deleted": "Vozilo gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Vozilo {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Vozilo"
+      },
+      "naziv": "Naziv"
+    }
+  }
+}

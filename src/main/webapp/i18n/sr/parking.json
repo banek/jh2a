@@ -1,0 +1,23 @@
+{
+  "jh2App": {
+    "parking": {
+      "home": {
+        "title": "Parkings",
+        "createLabel": "Kreiraj novi Parking",
+        "createOrEditLabel": "Kreirajte ili izmenite Parking",
+        "notFound": "No Parkings found"
+      },
+      "created": "Kreiran je novi Parking pod nazivom {{ param }}",
+      "updated": "Parking pod nazivom {{ param }} je ažuriran",
+      "deleted": "Parking pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Parking pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Parking"
+      },
+      "naziv": "Naziv",
+      "povrsina": "Povrsina"
+    }
+  }
+}
